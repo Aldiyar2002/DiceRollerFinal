@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DiceRollerFinal</string>
+    <string name="roll_label">Roll</string>
+    <string name="clear_label">Clear</string>
+    <string name="aldiyar_bukhin">Aldiyar Bukhin</string>
+    <string name="todo">TODO</string>
+</resources>
